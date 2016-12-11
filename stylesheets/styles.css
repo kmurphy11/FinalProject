@@ -11,10 +11,20 @@ body {
 	background-color: #000000;
 	font-style: normal;
 	font-weight: 200;
+	position: absolute;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
 }
 /* Container */
 .container {
 	width: 70%;
+	position: absolute;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
 }
 
 .hero {
