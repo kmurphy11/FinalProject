@@ -24,6 +24,12 @@ body {
 	width: 300px;
 	height: 100px;
 	background-color: #000000;
+	position: absolute;
+  margin: auto;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
 
 .hero_header {
 	color: #FFFFFF;
