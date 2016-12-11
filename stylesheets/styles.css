@@ -3,7 +3,7 @@
 body {
 	font-family: Arial;
 	background-image: url("http://imgur.com/ZrUehK0.jpg");
-   background-size: contain;
+   background-size: cover;
 	background-repeat: no-repeat;
     background-attachment: fixed;
 	background-color: #000000;
