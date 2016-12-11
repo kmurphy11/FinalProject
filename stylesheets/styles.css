@@ -5,6 +5,7 @@ body {
 	background-image: url("http://imgur.com/ZrUehK0.jpg");
 	background-repeat: no-repeat;
     background-attachment: fixed;
+	height: auto;
 	background-color: #000000;
 	font-style: normal;
 	font-weight: 200;
