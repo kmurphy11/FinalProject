@@ -2,8 +2,8 @@
 /* Body */
 body {
 	font-family: Arial;
-	background-image: url("http://imgur.com/ZrUehK0.jpg") no-repeat top center fixed;
-    background-size: cover;
+	background-image: url("http://imgur.com/ZrUehK0.jpg");
+   background-size: contain;
 	background-repeat: no-repeat;
     background-attachment: fixed;
 	background-color: #000000;
