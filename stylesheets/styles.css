@@ -20,7 +20,7 @@ body {
 }
 
 .hero {
-	margin: auto;
+	padding: 70px 0;
 	text-align: center;
 	letter-spacing: 4px;
 	width: 300px;
