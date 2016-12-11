@@ -6,8 +6,6 @@ body {
     background-size: cover;
 	background-repeat: no-repeat;
     background-attachment: fixed;
-	width:2800px; /* you can use % */
-    height: auto;
 	background-color: #000000;
 	font-style: normal;
 	font-weight: 200;
