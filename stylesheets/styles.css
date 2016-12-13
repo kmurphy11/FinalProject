@@ -44,6 +44,7 @@ tr#row4 { border: none;
 #heroparent {display: table;
 	position: fixed;
   	left: 50%;
+	 margin-left: -100px;
 	background-color: #000000;
 	width: 200px;
 	height: 100px;
