@@ -20,7 +20,13 @@ body {
 }
 
 
-#parenthero {display: table;}
+#parenthero {display: table;
+	background-color: #000000
+	width: 200px;
+	height: 100px;
+
+}
+
 
 #childhero {
     display: table-cell;
@@ -28,9 +34,6 @@ body {
 	color: #FFFFFF;
 	text-align: center;
 	letter-spacing: 4px;
-	width: 200px;
-	height: 100px;
-	background-color: #000000;
 	position: relative; 
 }
 
