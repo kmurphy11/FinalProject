@@ -4,7 +4,7 @@ body {
 	font-family: 'Open Sans', sans-serif;
 	background-image: url("http://imgur.com/ZrUehK0.jpg");
 	background-repeat: no-repeat;
-	background-size: cover;
+	background-size: 100% cover;
 	overflow: hidden;
 	background-color: #000000;
 	font-style: normal
