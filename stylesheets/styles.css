@@ -20,7 +20,7 @@ body {
 }
 
 
-#parenthero {display: table;
+#heroparent {display: table;
 	background-color: #000000
 	width: 200px;
 	height: 100px;
@@ -28,7 +28,7 @@ body {
 }
 
 
-#childhero {
+#herochild {
     display: table-cell;
     vertical-align: middle;
 	color: #FFFFFF;
