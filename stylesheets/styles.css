@@ -26,9 +26,19 @@ color: #FFFFFF;}
 The next rules specify that the top row will be surrounded by a 3px solid blue border and each of the other rows will be surrounded by a 1px solid black border:
 
 table   { border-collapse: collapse }
-tr#row1 { border: none }
-tr#row2 { border: none }
-tr#row3 { border: none }
+
+tr#row1 { border: none;
+	color: #FFFFFF;
+	font-weight: 600;}
+tr#row2 { border: none;
+	color: #FFFFFF;
+	font-weight: 200;}
+tr#row3 { border: none;
+	color: #FFFFFF;
+	font-weight: 600;}
+tr#row4 { border: none;
+	color: #FFFFFF;
+	font-weight: 200; }
 
 
 #heroparent {display: table;
