@@ -67,10 +67,10 @@ select#soflow, select#soflow-color {
 background-size: 25%;
    color: #FFFFFF;
    font-size: inherit;
-align: center;
-   margin: 20px;
+text-align: center;
+left: 50%;
+margin-left: -90px;
    overflow: hidden;
-   padding: 5px 10px;
    text-overflow: ellipsis;
    white-space: nowrap;
    width: 180px;
