@@ -62,7 +62,7 @@ body {
 
 select#soflow, select#soflow-color {
 	left: 50%;
-	margin-left: 90px;
+	margin-left: -90px;
    -webkit-appearance: button;
    -webkit-user-select: none;
    background-image: url(http://i.imgur.com/G1XRDBL.png);
