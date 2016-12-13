@@ -66,6 +66,7 @@ select#soflow, select#soflow-color {
 vertical-align: middle;
    background-color: #000000;
    background-repeat: no-repeat;
+	background-position: bottom; 
 background-size: 70%;
    color: #FFFFFF;
    font-size: inherit;
