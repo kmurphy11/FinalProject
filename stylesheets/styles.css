@@ -59,8 +59,6 @@ body {
 
 select#soflow, select#soflow-color {
    -webkit-appearance: button;
-   -webkit-padding-end: 20px;
-   -webkit-padding-start: 2px;
    -webkit-user-select: none;
    background-image: url(http://i.imgur.com/G1XRDBL.png);
    background-color: #000000;
