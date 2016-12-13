@@ -55,6 +55,8 @@ body {
 	background-color: #000000;
 	width: 200px;
 	height: 500px; 
+	display: table-cell;
+    vertical-align: middle;
 }
 
 select#soflow, select#soflow-color {
