@@ -17,29 +17,12 @@ body {
 
 }
 
-th { text-align: center;
-	color: #FFFFFF;}
-The next rules align the text of the header cells on their baseline and vertically center the text in each data cell:
-
-th { vertical-align: baseline }
-td { vertical-align: middle 
-color: #FFFFFF;}
-The next rules specify that the top row will be surrounded by a 3px solid blue border and each of the other rows will be surrounded by a 1px solid black border:
-
-table   { border-collapse: collapse }
-
-tr#row1 { border: none;
-	color: #FFFFFF;
-	font-weight: 600;}
-tr#row2 { border: none;
-	color: #FFFFFF;
-	font-weight: 200;}
-tr#row3 { border: none;
-	color: #FFFFFF;
-	font-weight: 600;}
-tr#row4 { border: none;
-	color: #FFFFFF;
-	font-weight: 200; }
+/*stats*/
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
+.tg .tg-r31x{color:#ffffff;text-align:center;vertical-align:top}
+.tg .tg-3l4n{font-size:36px;color:#ffffff;text-align:center;vertical-align:top}
 
 
 #heroparent {display: table;
