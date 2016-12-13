@@ -17,7 +17,7 @@ body {
 
 }
 
-th { text-align: center; font-weight: bold }
+th { text-align: center; }
 The next rules align the text of the header cells on their baseline and vertically center the text in each data cell:
 
 th { vertical-align: baseline }
