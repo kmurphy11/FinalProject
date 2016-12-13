@@ -18,7 +18,7 @@ body {
 }
 
 /*stats*/
-.tg  {border-collapse:collapse;border-spacing:0;left: 50%;margin-left: -100px;}
+.tg  {border-collapse:collapse;border-spacing:0;left: 50%;top: 15%;}
 .tg td{font-family:font-size:14px;padding:10px 500px;overflow:hidden;word-break:normal;}
 .tg th{font-family:font-size:14px;font-weight:normal;padding:10px 500px;overflow:hidden;word-break:normal;}
 .tg .tg-r31x{color:#ffffff;text-align:center;vertical-align:top}
@@ -42,7 +42,7 @@ body {
     vertical-align: middle;
 	color: #FFFFFF;
 	text-align: center;
-	font-size: 34px;
+	font-size: 36px;
 
 }
 
