@@ -63,7 +63,7 @@ select#soflow, select#soflow-color {
    -webkit-appearance: button;
    -webkit-user-select: none;
    background-image: url(http://i.imgur.com/G1XRDBL.png);
-position: absolute; bottom: 0;
+position: absolute; left: 50%;
    background-color: #000000;
    background-repeat: no-repeat;
 background-size: 70%;
