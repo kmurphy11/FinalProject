@@ -17,7 +17,7 @@ body {
 
 }
 
-th { text-align: center; }
+th { text-align: center; color: #FFFFFF;}
 The next rules align the text of the header cells on their baseline and vertically center the text in each data cell:
 
 th { vertical-align: baseline }
@@ -25,9 +25,9 @@ td { vertical-align: middle }
 The next rules specify that the top row will be surrounded by a 3px solid blue border and each of the other rows will be surrounded by a 1px solid black border:
 
 table   { border-collapse: collapse }
-tr#row1 { border: 3px solid blue }
-tr#row2 { border: 1px solid black }
-tr#row3 { border: 1px solid black }
+tr#row1 { border: none }
+tr#row2 { border: none }
+tr#row3 { border: none }
 
 
 #heroparent {display: table;
