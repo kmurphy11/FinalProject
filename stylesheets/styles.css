@@ -47,7 +47,8 @@ body {
 }
 .gallery {
 	display: inline-block;
-	width: 100%;
+	color: #FFFFFF;
+	width: 700px;
 	/* [disabled]min-width: 400px;
 */
 	padding-bottom: 5px;
