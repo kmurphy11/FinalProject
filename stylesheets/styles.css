@@ -18,9 +18,9 @@ body {
 }
 
 /*stats*/
-.tg  {border-collapse:collapse;border-spacing:0; position:absolute; left:50%; margin-left: -100; top: 30%;}
-.tg td{font-family:font-size:14px;padding:20px 70px;overflow:hidden;word-break:normal;}
-.tg th{font-size:14px;font-weight:normal;padding:40px 70px;overflow:hidden;word-break:normal;}
+.tg  {border-collapse:collapse;border-spacing:0; position:absolute; left:50%; margin-left: -50; top: 30%;}
+.tg td{font-family:font-size:14px;padding:20px 90px;overflow:hidden;word-break:normal;}
+.tg th{font-size:14px;font-weight:normal;padding:40px 90px;overflow:hidden;word-break:normal;}
 .tg .tg-r31x{color:#ffffff;text-align:center;vertical-align:top}
 .tg .tg-3l4n{font-size:70px;color:#ffffff;text-align:center;vertical-align:top}
 
