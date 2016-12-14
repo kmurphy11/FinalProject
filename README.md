@@ -23,3 +23,7 @@ The current website statistics are in place for a meat-heavy diet.
 9% at risk of type 2 diabetes
   According to the CDC, 9% of Americans have type so diabetes, so this puts the average American at a 25% risk. Assuming the average American also eats meat, this statistic correlates.
   https://www.cdc.gov/heartdisease/facts.htm
+
+
+[Website mockup](http://i.imgur.com/GrN76fN.jpg)
+[Website mockup hover](http://i.imgur.com/MQrGWAF.jpg)
