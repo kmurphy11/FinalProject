@@ -49,6 +49,7 @@ body {
 
 
 #datainput {display: table;
+	z-index: 1000
 	position: fixed;
   	left: 50%;
 	 margin-left: -100px;
